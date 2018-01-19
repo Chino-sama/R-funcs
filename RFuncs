@@ -1,0 +1,10 @@
+R    :v
+
+scan() 			-> introducir datos 
+range() 		-> Min y Max datos
+which()			-> Datos menores o mayores que algo &
+sort()			-> Ordenar datos ascendente
+data.entry()	-> Excel :v
+hist() 			-> Histograma (main=título, labels=T, col="color")
+lenght() 		-> Estás tonto si no sabes :v
+
