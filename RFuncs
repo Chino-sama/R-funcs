@@ -7,4 +7,7 @@ sort()			-> Ordenar datos ascendente
 data.entry()	-> Excel :v
 hist() 			-> Histograma (main=título, labels=T, col="color")
 lenght() 		-> Estás tonto si no sabes :v
-
+rep(dato, cant) -> Repetir dato
+ls()			-> Lista variable
+rm()			-> Borrar
+save.image()	->Guardar
