@@ -10,4 +10,10 @@ lenght() 		-> Estás tonto si no sabes :v
 rep(dato, cant) -> Repetir dato
 ls()			-> Lista variable
 rm()			-> Borrar
-save.image()	->Guardar
+save.image()	-> Guardar
+c()				-> Concat
+
+Scripts
+
+readline("") 	-> Pedir datos
+as.Integer()	-> Convertir a Entero
